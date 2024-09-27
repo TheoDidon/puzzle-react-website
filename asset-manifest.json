@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/puzzle-react-website/static/css/main.c36ddd95.css",
-    "main.js": "/puzzle-react-website/static/js/main.52767fc4.js",
+    "main.js": "/puzzle-react-website/static/js/main.37325015.js",
     "static/js/488.dba5a9d8.chunk.js": "/puzzle-react-website/static/js/488.dba5a9d8.chunk.js",
     "index.html": "/puzzle-react-website/index.html",
     "main.c36ddd95.css.map": "/puzzle-react-website/static/css/main.c36ddd95.css.map",
-    "main.52767fc4.js.map": "/puzzle-react-website/static/js/main.52767fc4.js.map",
+    "main.37325015.js.map": "/puzzle-react-website/static/js/main.37325015.js.map",
     "488.dba5a9d8.chunk.js.map": "/puzzle-react-website/static/js/488.dba5a9d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c36ddd95.css",
-    "static/js/main.52767fc4.js"
+    "static/js/main.37325015.js"
   ]
 }

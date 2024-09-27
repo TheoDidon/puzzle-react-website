@@ -4,7 +4,7 @@ import '../styles/MainText.css';
 
 function MainText() {
     return (
-        <section className="flex flex-col justify-center items-center">
+        <section className="flex flex-col justify-center items-center text-gray-600">
             <p className="pink-text">
                 PUZZLE, l'application de rencontre amoureuse de demain
             </p>

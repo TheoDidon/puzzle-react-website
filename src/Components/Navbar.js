@@ -34,7 +34,7 @@ function Navbar() {
             </div>
 
             <button 
-                className="support text-white font-bold bg-black px-[0.8rem] py-[0.3rem] max-h-[80%] max-w-[8rem] rounded-full self-center mx-[1rem]"
+                className="support text-white font-bold bg-black px-[0.8rem] py-[0.3rem] max-w-[8rem] rounded-full self-center mx-[1rem]"
                 onClick={() => window.location.href = 'https://puzzlelove.fr'}
             >
                 Soutenir Puzzle

@@ -31,6 +31,7 @@ function App() {
             <img 
                 src="https://puzzlelove.fr/wp-content/uploads/2024/09/PATWORK-.png"
                 className="m-[1rem]"
+                alt=''
             />
             <Footer/>
         </div>

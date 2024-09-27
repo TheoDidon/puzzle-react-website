@@ -1,0 +1,16 @@
+p {
+    margin: 1rem 2rem;
+    text-align: center;
+}
+
+.pink-text {
+    color: #F03CA1;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.cursive-text {
+    font-family: "Rochester", "cursive";
+    font-weight: bold;
+    font-size: 3rem;
+}

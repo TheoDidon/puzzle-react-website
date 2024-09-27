@@ -2,7 +2,7 @@
   "name": "react-puzzle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://theodidon.github.io/react-puzzle",
+  "homepage": "https://theodidon.github.io/puzzle-react-website",
   "dependencies": {
     "@testing-library/jest-dom": "^6.5.0",
     "@testing-library/react": "^16.0.1",

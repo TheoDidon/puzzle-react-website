@@ -25,12 +25,12 @@ function Navbar() {
 
             {/* A refaire pour avoir un vrai menu déroulant */}
             <div className={`navbar-links flex flex-col lg:flex-row justify-center items-center mx-[1rem] ${!menuOpen && 'hidden'} lg:flex`}>
-                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="">Accueil</a></div>
-                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="">Bêta testeurs</a></div>
-                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="">Le projet PuzzleLove</a></div>
-                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="">L'application Puzzle</a></div>
-                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="">Articles</a></div>
-                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="">Sondages</a></div>
+                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="#">Accueil</a></div>
+                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="#">Bêta testeurs</a></div>
+                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="#">Le projet PuzzleLove</a></div>
+                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="#">L'application Puzzle</a></div>
+                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="#">Articles</a></div>
+                <div className="scrolldown-menu m-[1rem] text-black font-bold"><a href="#">Sondages</a></div>
             </div>
 
             <button 

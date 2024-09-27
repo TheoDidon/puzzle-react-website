@@ -2,6 +2,7 @@
   "name": "react-puzzle",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://theodidon.github.io/react-puzzle",
   "dependencies": {
     "@testing-library/jest-dom": "^6.5.0",
     "@testing-library/react": "^16.0.1",
@@ -37,6 +38,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13"
   }

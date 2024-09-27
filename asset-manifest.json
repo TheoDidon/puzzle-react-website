@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/puzzle-react-website/static/css/main.9c5b7b6b.css",
-    "main.js": "/puzzle-react-website/static/js/main.28407351.js",
+    "main.css": "/puzzle-react-website/static/css/main.c36ddd95.css",
+    "main.js": "/puzzle-react-website/static/js/main.09f84549.js",
     "static/js/488.dba5a9d8.chunk.js": "/puzzle-react-website/static/js/488.dba5a9d8.chunk.js",
     "index.html": "/puzzle-react-website/index.html",
-    "main.9c5b7b6b.css.map": "/puzzle-react-website/static/css/main.9c5b7b6b.css.map",
-    "main.28407351.js.map": "/puzzle-react-website/static/js/main.28407351.js.map",
+    "main.c36ddd95.css.map": "/puzzle-react-website/static/css/main.c36ddd95.css.map",
+    "main.09f84549.js.map": "/puzzle-react-website/static/js/main.09f84549.js.map",
     "488.dba5a9d8.chunk.js.map": "/puzzle-react-website/static/js/488.dba5a9d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c5b7b6b.css",
-    "static/js/main.28407351.js"
+    "static/css/main.c36ddd95.css",
+    "static/js/main.09f84549.js"
   ]
 }
